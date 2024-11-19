@@ -1,12 +1,3 @@
 {
-    "products": [{
-        "name": "teclado",
-        "price": 200
-    }, {
-        "name": "teclado",
-        "price": 200
-    }, {
-        "name": "bucetinhas",
-        "price": 200
-    }]
+  
 }
